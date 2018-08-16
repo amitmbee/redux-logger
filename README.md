@@ -1,0 +1,1 @@
+# Redux-logger naive implementation.
